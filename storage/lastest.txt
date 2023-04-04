@@ -1,0 +1,230 @@
+Game date: 4/2/2023, 8:19:51 PM 
+Game duration: 33min 3sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Défaite 
+Team 2 win: Victoire 
+Team 1 bans: Twitch, Lulu, Aurelion Sol, Maître Yi, Mordekaiser 
+Team 2 bans: Gangplank, Jax, Galio, Irelia, Morgana 
+Team 1 participants: 
+- AsolLoveStarBugs (Ahri): 9/5/8 KDA, 189 CS, 22329 DMG, 13111 GOLD, 12 SCORE VISION, 8 WARDSPLACED, 2 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- I El Truco I  (Teemo): 3/7/6 KDA, 214 CS, 20169 DMG, 11241 GOLD, 33 SCORE VISION, 16 WARDSPLACED, 0 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- DÆdChixDontSayNo (Caitlyn): 6/12/8 KDA, 157 CS, 13769 DMG, 10596 GOLD, 16 SCORE VISION, 9 WARDSPLACED, 1 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- Général Cloud (Lux): 8/10/16 KDA, 53 CS, 24134 DMG, 12070 GOLD, 30 SCORE VISION, 16 WARDSPLACED, 2 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM
+- ixLlama (Zed): 12/14/7 KDA, 35 CS, 26729 DMG, 14424 GOLD, 26 SCORE VISION, 3 WARDSPLACED, 5 WARDSKILLED, Role: NONE, Lane: JUNGLE 
+Team 2 participants: 
+- xXRagnarock (XinZhao): 5/7/7 KDA, 41 CS, 13059 DMG, 12693 GOLD, 35 SCORE VISION, 11 WARDSPLACED, 4 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- EnModePingPong (Yasuo): 9/8/7 KDA, 211 CS, 15419 DMG, 14094 GOLD, 47 SCORE VISION, 13 WARDSPLACED, 7 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- Ma Bistouquette (Zyra): 3/10/13 KDA, 41 CS, 23933 DMG, 11408 GOLD, 40 SCORE VISION, 14 WARDSPLACED, 4 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM
+- Shifter Bro (Darius): 16/7/8 KDA, 205 CS, 22269 DMG, 17992 GOLD, 17 SCORE VISION, 6 WARDSPLACED, 4 WARDSKILLED, Role: SOLO, Lane: TOP
+- jozzé (Brand): 15/6/8 KDA, 191 CS, 43315 DMG, 15818 GOLD, 16 SCORE VISION, 7 WARDSPLACED, 1 WARDSKILLED, Role: CARRY, Lane: BOTTOM 
+MVP: jozzé 
+---------------------------------------- 
+Game date: 4/2/2023, 7:49:08 PM 
+Game duration: 23min 55sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Victoire 
+Team 2 win: Défaite 
+Team 1 bans: Irelia, Aurelion Sol, , Gangplank, Jarvan IV 
+Team 2 bans: Thresh, Zac, Darius, Warwick, Aurelion Sol 
+Team 1 participants: 
+- Shifter Bro (Sett): 5/3/3 KDA, 174 CS, 15172 DMG, 10990 GOLD, 24 SCORE VISION, 7 WARDSPLACED, 6 WARDSKILLED, Role: SOLO, Lane: TOP
+- EnModePingPong (Sylas): 8/2/8 KDA, 11 CS, 13580 DMG, 10208 GOLD, 18 SCORE VISION, 5 WARDSPLACED, 3 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- Ma Bistouquette (Lissandra): 7/6/8 KDA, 150 CS, 14972 DMG, 9493 GOLD, 10 SCORE VISION, 6 WARDSPLACED, 1 WARDSKILLED, Role: DUO, Lane: MIDDLE
+- jozzé (Nilah): 8/3/12 KDA, 181 CS, 25572 DMG, 13501 GOLD, 13 SCORE VISION, 7 WARDSPLACED, 2 WARDSKILLED, Role: DUO, Lane: MIDDLE
+- Shouff (Nautilus): 4/3/16 KDA, 33 CS, 6956 DMG, 7498 GOLD, 43 SCORE VISION, 16 WARDSPLACED, 5 WARDSKILLED, Role: SUPPORT, Lane: MIDDLE 
+Team 2 participants: 
+- InShenSatø (Katarina): 6/8/3 KDA, 122 CS, 12157 DMG, 8660 GOLD, 12 SCORE VISION, 8 WARDSPLACED, 0 WARDSKILLED, Role: SOLO, Lane: TOP
+- Leniador (Hecarim): 5/5/6 KDA, 24 CS, 15629 DMG, 9690 GOLD, 31 SCORE VISION, 12 WARDSPLACED, 4 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- Little αngel (Lux): 2/4/5 KDA, 181 CS, 21134 DMG, 9001 GOLD, 20 SCORE VISION, 11 WARDSPLACED, 2 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- Grisaceo (Jinx): 1/9/7 KDA, 135 CS, 15080 DMG, 7020 GOLD, 11 SCORE VISION, 8 WARDSPLACED, 0 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- Sushi chop chop (Morgana): 3/6/6 KDA, 14 CS, 13520 DMG, 6462 GOLD, 39 SCORE VISION, 17 WARDSPLACED, 3 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+MVP: jozzé 
+---------------------------------------- 
+Game date: 4/2/2023, 7:39:16 PM 
+Game duration: 1min 43sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Défaite 
+Team 2 win: Victoire 
+Team 1 bans: Akali, Aurelion Sol, Akshan, Tryndamere, Ahri 
+Team 2 bans: Irelia, Caitlyn, Gangplank, Jarvan IV,  
+Team 1 participants: 
+- Vin Weasel φ (Yasuo): 0/0/0 KDA, 0 CS, 0 DMG, 500 GOLD, 0 SCORE VISION, 0 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- joker187ers (Trundle): 0/0/0 KDA, 0 CS, 0 DMG, 500 GOLD, 0 SCORE VISION, 1 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- Don Tiger (Orianna): 0/1/0 KDA, 1 CS, 8 DMG, 520 GOLD, 0 SCORE VISION, 0 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- Kaniro (Sivir): 0/0/0 KDA, 0 CS, 0 DMG, 500 GOLD, 0 SCORE VISION, 0 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- Muurten (Lux): 0/0/0 KDA, 0 CS, 0 DMG, 500 GOLD, 0 SCORE VISION, 0 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE 
+Team 2 participants: 
+- Shifter Bro (Darius): 1/0/0 KDA, 0 CS, 156 DMG, 920 GOLD, 0 SCORE VISION, 0 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- EnModePingPong (Sylas): 0/0/1 KDA, 0 CS, 227 DMG, 583 GOLD, 0 SCORE VISION, 0 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- Ma Bistouquette (Ziggs): 0/0/0 KDA, 0 CS, 0 DMG, 500 GOLD, 0 SCORE VISION, 0 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- jozzé (Nilah): 0/0/1 KDA, 0 CS, 182 DMG, 553 GOLD, 0 SCORE VISION, 1 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- Shouff (Nautilus): 0/0/1 KDA, 0 CS, 139 DMG, 533 GOLD, 1 SCORE VISION, 1 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE 
+MVP: EnModePingPong 
+---------------------------------------- 
+Game date: 4/2/2023, 6:29:43 PM 
+Game duration: 38min 42sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Victoire 
+Team 2 win: Défaite 
+Team 1 bans: Wukong, Darius, Yasuo, Galio, Jhin 
+Team 2 bans: Kalista, Hecarim, Katarina, Fiora, Zyra 
+Team 1 participants: 
+- El Grif0 (Nasus): 3/3/2 KDA, 204 CS, 20086 DMG, 12370 GOLD, 22 SCORE VISION, 9 WARDSPLACED, 2 WARDSKILLED, Role: SOLO, Lane: TOP
+- CuteLittleAngel (Shaco): 15/3/7 KDA, 31 CS, 23919 DMG, 14699 GOLD, 45 SCORE VISION, 4 WARDSPLACED, 5 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- EnModePingPong (Ahri): 14/4/15 KDA, 276 CS, 47708 DMG, 16787 GOLD, 24 SCORE VISION, 7 WARDSPLACED, 4 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- Daitan89 (KogMaw): 14/7/13 KDA, 201 CS, 42226 DMG, 16337 GOLD, 9 SCORE VISION, 6 WARDSPLACED, 0 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- Venox27 (Bard): 4/7/28 KDA, 61 CS, 17670 DMG, 11196 GOLD, 72 SCORE VISION, 30 WARDSPLACED, 6 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+Team 2 participants: 
+- mysticsheeprider (Illaoi): 4/7/0 KDA, 273 CS, 31508 DMG, 14390 GOLD, 20 SCORE VISION, 10 WARDSPLACED, 0 WARDSKILLED, Role: SOLO, Lane: TOP
+- ShensitiveTaunt (Talon): 11/13/5 KDA, 82 CS, 32159 DMG, 18513 GOLD, 29 SCORE VISION, 3 WARDSPLACED, 2 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- xXS1mbaXx (Veigar): 6/7/2 KDA, 231 CS, 25820 DMG, 16339 GOLD, 31 SCORE VISION, 17 WARDSPLACED, 1 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- tirolerin (Tristana): 2/10/6 KDA, 173 CS, 13447 DMG, 11549 GOLD, 21 SCORE VISION, 12 WARDSPLACED, 2 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- oMissAnthrop (Milio): 0/13/12 KDA, 22 CS, 7527 DMG, 8879 GOLD, 55 SCORE VISION, 20 WARDSPLACED, 11 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+MVP: EnModePingPong 
+---------------------------------------- 
+Game date: 4/2/2023, 3:38:03 PM 
+Game duration: 40min 32sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Victoire 
+Team 2 win: Défaite 
+Team 1 bans: Udyr, Hecarim, Mordekaiser, Annie,  
+Team 2 bans: Samira, Lillia, Udyr, Cassiopeia, Mordekaiser 
+Team 1 participants: 
+- leiva84 (Illaoi): 5/11/5 KDA, 315 CS, 46489 DMG, 17335 GOLD, 32 SCORE VISION, 15 WARDSPLACED, 5 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- SalChin (Rammus): 4/7/17 KDA, 24 CS, 19907 DMG, 14580 GOLD, 39 SCORE VISION, 4 WARDSPLACED, 10 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- Nertaniun (Syndra): 20/10/10 KDA, 221 CS, 69173 DMG, 20484 GOLD, 30 SCORE VISION, 14 WARDSPLACED, 3 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- irl angel (Kalista): 13/15/16 KDA, 207 CS, 47917 DMG, 19891 GOLD, 40 SCORE VISION, 14 WARDSPLACED, 4 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- ToKrasiTisPareas (Seraphine): 4/13/23 KDA, 77 CS, 19469 DMG, 13180 GOLD, 83 SCORE VISION, 33 WARDSPLACED, 7 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+Team 2 participants: 
+- Arangirr (Vladimir): 13/8/14 KDA, 289 CS, 69277 DMG, 18917 GOLD, 52 SCORE VISION, 13 WARDSPLACED, 2 WARDSKILLED, Role: SOLO, Lane: TOP
+- nitst (LeeSin): 9/10/21 KDA, 27 CS, 28172 DMG, 14745 GOLD, 28 SCORE VISION, 15 WARDSPLACED, 1 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- Bianik9 (Gragas): 14/8/7 KDA, 168 CS, 25851 DMG, 15405 GOLD, 17 SCORE VISION, 8 WARDSPLACED, 1 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- EnModePingPong (Xayah): 13/11/15 KDA, 205 CS, 45041 DMG, 16194 GOLD, 34 SCORE VISION, 11 WARDSPLACED, 5 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- Shiner5 (Xerath): 7/9/23 KDA, 70 CS, 34649 DMG, 12856 GOLD, 98 SCORE VISION, 41 WARDSPLACED, 10 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+MVP: Arangirr 
+---------------------------------------- 
+Game date: 4/2/2023, 2:03:21 PM 
+Game duration: 27min 1sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Défaite 
+Team 2 win: Victoire 
+Team 1 bans: Malzahar, Sion, , Zeri, Darius 
+Team 2 bans: Zac, Mordekaiser, Samira, Morgana, Yone 
+Team 1 participants: 
+- Van Butan (Malphite): 4/7/1 KDA, 156 CS, 11990 DMG, 8518 GOLD, 14 SCORE VISION, 7 WARDSPLACED, 2 WARDSKILLED, Role: SOLO, Lane: TOP
+- forellenfik (LeeSin): 2/10/3 KDA, 24 CS, 10081 DMG, 7993 GOLD, 26 SCORE VISION, 14 WARDSPLACED, 1 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- the night owner (Gragas): 0/5/1 KDA, 131 CS, 11916 DMG, 6541 GOLD, 10 SCORE VISION, 7 WARDSPLACED, 0 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- Roooaaaarrrr (Jinx): 2/6/1 KDA, 204 CS, 14275 DMG, 9841 GOLD, 25 SCORE VISION, 10 WARDSPLACED, 3 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- JoshVII (Milio): 0/1/4 KDA, 45 CS, 3752 DMG, 6028 GOLD, 46 SCORE VISION, 30 WARDSPLACED, 4 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+Team 2 participants: 
+- lkxjhk (Riven): 3/2/5 KDA, 213 CS, 15231 DMG, 12234 GOLD, 20 SCORE VISION, 4 WARDSPLACED, 5 WARDSKILLED, Role: SOLO, Lane: TOP
+- Tºxîc Šhøøtêr (Evelynn): 4/2/5 KDA, 22 CS, 14207 DMG, 10487 GOLD, 14 SCORE VISION, 1 WARDSPLACED, 3 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- Jonahh Falcon (Sylas): 14/2/9 KDA, 163 CS, 28195 DMG, 13293 GOLD, 14 SCORE VISION, 4 WARDSPLACED, 4 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- EnModePingPong (Xayah): 6/1/10 KDA, 141 CS, 13432 DMG, 10391 GOLD, 30 SCORE VISION, 8 WARDSPLACED, 4 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- Asterix226 (Bard): 2/1/19 KDA, 14 CS, 9150 DMG, 8524 GOLD, 59 SCORE VISION, 28 WARDSPLACED, 8 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+MVP: Jonahh Falcon 
+---------------------------------------- 
+Game date: 4/2/2023, 1:34:29 PM 
+Game duration: 23min 5sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Défaite 
+Team 2 win: Victoire 
+Team 1 bans: Vex, Samira, Yuumi, Fiora, Milio 
+Team 2 bans: Blitzcrank, Zed, Séraphine, Yuumi, Camille 
+Team 1 participants: 
+- HelloImOTP (Volibear): 2/9/0 KDA, 167 CS, 16427 DMG, 8018 GOLD, 13 SCORE VISION, 8 WARDSPLACED, 0 WARDSKILLED, Role: SOLO, Lane: TOP
+- BenkBenk (Diana): 6/6/3 KDA, 8 CS, 12051 DMG, 8997 GOLD, 24 SCORE VISION, 6 WARDSPLACED, 1 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- HideInaFaker (Yasuo): 1/7/5 KDA, 180 CS, 10927 DMG, 7853 GOLD, 12 SCORE VISION, 7 WARDSPLACED, 0 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- ArreKuXu (Jinx): 6/3/7 KDA, 189 CS, 14150 DMG, 10720 GOLD, 17 SCORE VISION, 10 WARDSPLACED, 2 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- EnModePingPong (Thresh): 1/5/9 KDA, 34 CS, 4461 DMG, 5770 GOLD, 47 SCORE VISION, 16 WARDSPLACED, 6 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+Team 2 participants: 
+- MisterMangue (Garen): 7/3/4 KDA, 187 CS, 15356 DMG, 11923 GOLD, 19 SCORE VISION, 7 WARDSPLACED, 1 WARDSKILLED, Role: SOLO, Lane: TOP
+- Tinsondhaka (Khazix): 8/3/4 KDA, 20 CS, 17142 DMG, 11233 GOLD, 8 SCORE VISION, 1 WARDSPLACED, 1 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- Chris McCandless (Ahri): 9/2/4 KDA, 173 CS, 20837 DMG, 12041 GOLD, 12 SCORE VISION, 5 WARDSPLACED, 1 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- Isabel Antoja (Zeri): 6/3/5 KDA, 168 CS, 10718 DMG, 10242 GOLD, 21 SCORE VISION, 8 WARDSPLACED, 5 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- Chafahuevos (Alistar): 0/5/10 KDA, 39 CS, 2413 DMG, 6401 GOLD, 41 SCORE VISION, 14 WARDSPLACED, 5 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+MVP: Chris McCandless 
+---------------------------------------- 
+Game date: 4/1/2023, 4:19:12 PM 
+Game duration: 52min 1sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Défaite 
+Team 2 win: Victoire 
+Team 1 bans: Milio, Senna, Zed, Nilah, Fiora 
+Team 2 bans: Mordekaiser, Samira, Kassadin, Rakan, Ashe 
+Team 1 participants: 
+- OrnnTub (Sylas): 10/15/9 KDA, 253 CS, 37248 DMG, 18883 GOLD, 22 SCORE VISION, 14 WARDSPLACED, 0 WARDSKILLED, Role: SOLO, Lane: TOP
+- Red007 (FiddleSticks): 11/17/28 KDA, 60 CS, 52500 DMG, 21494 GOLD, 84 SCORE VISION, 1 WARDSPLACED, 7 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- xMarikho (Xayah): 4/12/15 KDA, 348 CS, 29033 DMG, 20279 GOLD, 40 SCORE VISION, 17 WARDSPLACED, 2 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- LeGrosBois (Kaisa): 35/12/14 KDA, 292 CS, 68752 DMG, 31642 GOLD, 56 SCORE VISION, 10 WARDSPLACED, 6 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- Fusilier (Pantheon): 13/13/22 KDA, 71 CS, 44249 DMG, 17864 GOLD, 134 SCORE VISION, 46 WARDSPLACED, 27 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+Team 2 participants: 
+- PG MrReDxD (AurelionSol): 17/13/19 KDA, 284 CS, 60496 DMG, 26776 GOLD, 36 SCORE VISION, 21 WARDSPLACED, 2 WARDSKILLED, Role: SUPPORT, Lane: TOP
+- Ganfiak LeGland (Shaco): 23/9/11 KDA, 73 CS, 77448 DMG, 25044 GOLD, 50 SCORE VISION, 8 WARDSPLACED, 11 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- Paco Khabat (Yone): 13/16/11 KDA, 286 CS, 63202 DMG, 23711 GOLD, 24 SCORE VISION, 15 WARDSPLACED, 2 WARDSKILLED, Role: CARRY, Lane: TOP
+- EnModePingPong (Ezreal): 13/16/16 KDA, 233 CS, 53799 DMG, 19947 GOLD, 41 SCORE VISION, 12 WARDSPLACED, 1 WARDSKILLED, Role: SOLO, Lane: BOTTOM
+- Îngrîmmsch (Caitlyn): 2/19/12 KDA, 130 CS, 34117 DMG, 15722 GOLD, 121 SCORE VISION, 49 WARDSPLACED, 16 WARDSKILLED, Role: NONE, Lane: JUNGLE 
+MVP: Ganfiak LeGland 
+---------------------------------------- 
+Game date: 4/1/2023, 3:59:55 PM 
+Game duration: 13min 57sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Défaite 
+Team 2 win: Victoire 
+Team 1 bans: Samira, Malphite, Kassadin, Warwick, Morgana 
+Team 2 bans: Caitlyn, Lee Sin, Darius, , Zed 
+Team 1 participants: 
+- Ocanilos (Fiora): 1/4/1 KDA, 56 CS, 4782 DMG, 3929 GOLD, 1 SCORE VISION, 1 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- AncientBro (RekSai): 7/3/1 KDA, 13 CS, 6258 DMG, 7500 GOLD, 12 SCORE VISION, 3 WARDSPLACED, 1 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- Paco Khabat (Yone): 0/3/1 KDA, 88 CS, 2294 DMG, 4090 GOLD, 1 SCORE VISION, 1 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- EnModePingPong (Xayah): 2/2/4 KDA, 102 CS, 7690 DMG, 5117 GOLD, 6 SCORE VISION, 4 WARDSPLACED, 1 WARDSKILLED, Role: DUO, Lane: NONE
+- DanjkaP (Rakan): 2/2/4 KDA, 24 CS, 2584 DMG, 3743 GOLD, 16 SCORE VISION, 9 WARDSPLACED, 3 WARDSKILLED, Role: SUPPORT, Lane: NONE 
+Team 2 participants: 
+- paco el pan (Gangplank): 7/3/3 KDA, 101 CS, 11274 DMG, 8185 GOLD, 8 SCORE VISION, 6 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- Zwaehn (Rammus): 1/2/3 KDA, 5 CS, 3469 DMG, 4288 GOLD, 6 SCORE VISION, 0 WARDSPLACED, 3 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- NightZzSs (Akshan): 3/1/4 KDA, 105 CS, 8017 DMG, 6260 GOLD, 5 SCORE VISION, 4 WARDSPLACED, 0 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- Impolon (Kaisa): 3/3/1 KDA, 95 CS, 5170 DMG, 5148 GOLD, 6 SCORE VISION, 4 WARDSPLACED, 3 WARDSKILLED, Role: SUPPORT, Lane: NONE
+- Schamalama (Milio): 0/3/4 KDA, 15 CS, 1035 DMG, 2792 GOLD, 12 SCORE VISION, 7 WARDSPLACED, 1 WARDSKILLED, Role: SUPPORT, Lane: NONE 
+MVP: paco el pan 
+---------------------------------------- 
+Game date: 4/1/2023, 3:19:08 PM 
+Game duration: 33min 28sec 
+Game mode: CLASSIC 
+Game type: MATCHED_GAME 
+Game version: 13.6.499.7758 
+Team 1 win: Défaite 
+Team 2 win: Victoire 
+Team 1 bans: , Kassadin, Samira, Draven, Pyke 
+Team 2 bans: Darius, Pyke, Zeri, Cho'Gath, Yasuo 
+Team 1 participants: 
+- Quivermercury (Aatrox): 1/10/2 KDA, 192 CS, 27697 DMG, 10366 GOLD, 18 SCORE VISION, 9 WARDSPLACED, 1 WARDSKILLED, Role: SOLO, Lane: TOP
+- installerorc (Rengar): 13/8/5 KDA, 59 CS, 42055 DMG, 18428 GOLD, 14 SCORE VISION, 1 WARDSPLACED, 2 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- Paco Khabat (Katarina): 6/7/7 KDA, 189 CS, 25616 DMG, 12931 GOLD, 15 SCORE VISION, 11 WARDSPLACED, 1 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- EnModePingPong (Xayah): 3/8/5 KDA, 172 CS, 15353 DMG, 12051 GOLD, 20 SCORE VISION, 13 WARDSPLACED, 3 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- 96leandoer (Janna): 1/7/11 KDA, 7 CS, 3769 DMG, 8108 GOLD, 66 SCORE VISION, 27 WARDSPLACED, 4 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+Team 2 participants: 
+- bobmichel29 (Vladimir): 7/4/12 KDA, 230 CS, 28148 DMG, 13740 GOLD, 20 SCORE VISION, 13 WARDSPLACED, 1 WARDSKILLED, Role: SOLO, Lane: TOP
+- GlacialElf (Hecarim): 6/7/14 KDA, 24 CS, 21065 DMG, 12750 GOLD, 11 SCORE VISION, 1 WARDSPLACED, 0 WARDSKILLED, Role: NONE, Lane: JUNGLE
+- Bxneless (Varus): 10/4/7 KDA, 203 CS, 24737 DMG, 13855 GOLD, 26 SCORE VISION, 13 WARDSPLACED, 2 WARDSKILLED, Role: SOLO, Lane: MIDDLE
+- Thimaq (Vayne): 13/4/12 KDA, 211 CS, 30855 DMG, 16267 GOLD, 27 SCORE VISION, 11 WARDSPLACED, 4 WARDSKILLED, Role: CARRY, Lane: BOTTOM
+- Spacefish 501st (Zyra): 4/6/15 KDA, 19 CS, 16136 DMG, 9532 GOLD, 64 SCORE VISION, 31 WARDSPLACED, 4 WARDSKILLED, Role: SUPPORT, Lane: BOTTOM 
+MVP: installerorc 
+---------------------------------------- 
