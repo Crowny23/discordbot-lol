@@ -14,11 +14,11 @@ module.exports = {
     const summonerName = interaction.options.getString('nomdujoueur');
     //get summoner by name
     const summoner = await apiServiceLOL.getSummonerByName(summonerName);
-    const summonerInfo = await summoner.json();
+    const summonerInfo = await summoner.body.json();
     if (typeof (summonerInfo.status) === 'undefined') {
       const summonerId = await summonerInfo.id;
       const leagues = await apiServiceLOL.getLeagueBySummonerId(summonerId);
-      const leaguesInfo = await leagues.json();
+      const leaguesInfo = await leagues.body.json();
       if (leaguesInfo.length !== 1) {
         const leagueSolo = leaguesInfo.find(league => league.queueType === 'RANKED_SOLO_5x5');
         const leagueName = leagueSolo.tier;

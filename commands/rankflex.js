@@ -13,11 +13,11 @@ module.exports = {
 	async execute(interaction) {
     const summonerName = interaction.options.getString('nomdujoueur');
     const summoner = await apiServiceLOL.getSummonerByName(summonerName);
-    const summonerInfo = await summoner.json();
+    const summonerInfo = await summoner.body.json();
     if (typeof(summonerInfo.status) === 'undefined') {
       const summonerId = await summonerInfo.id;
       const leagues = await apiServiceLOL.getLeagueBySummonerId(summonerId);
-      const leaguesInfo = await leagues.json();
+      const leaguesInfo = await leagues.body.json();
       console.log(leaguesInfo);
       if (leaguesInfo.length !== 1) {
         const leagueFlex = leaguesInfo.find(league => league.queueType === 'RANKED_FLEX_SR');

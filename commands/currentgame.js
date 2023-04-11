@@ -1,6 +1,5 @@
 const { SlashCommandBuilder } = require('discord.js');
 const apiServiceLOL = require('../services/ApiServiceLOL');
-const championService = require('../services/ChampionData');
 
 module.exports = {
   data: new SlashCommandBuilder()
@@ -13,15 +12,15 @@ module.exports = {
     ),
   async execute(interaction) {
     const summonerName = interaction.options.getString('nomdujoueur');
-    const championData = await championService.getChampionData();
-    const dataInfo = await championData.json();
+    const championData = await apiServiceLOL.getChampionData();
+    const dataInfo = await championData.body.json();
     const championList = dataInfo.data;
     const summoner = await apiServiceLOL.getSummonerByName(summonerName);
-    const summonerInfo = await summoner.json();
-    if (typeof (summonerInfo.status) === 'undefined') {
+    const summonerInfo = await summoner.body.json();
+    if (typeof(summonerInfo.status) === 'undefined') {
       const summonerId = await summonerInfo.id;
       const currentgame = await apiServiceLOL.getCurrentGameBySummonerId(summonerId);
-      const currentgameInfo = await currentgame.json();
+      const currentgameInfo = await currentgame.body.json();
       if (typeof (currentgameInfo.status) === 'undefined') {
         const gameMode = currentgameInfo.gameMode;
         const gameType = currentgameInfo.gameType;
@@ -38,7 +37,7 @@ module.exports = {
                   if (league.length !== 1 && league[0].summonerName === participant.summonerName) {
                     const leagueSolo = league.find(league => league.queueType === 'RANKED_SOLO_5x5');
                     gameMessage += ` Soloqueue : ${leagueSolo.tier} ${leagueSolo.rank} ${leagueSolo.leaguePoints} points`;
-                    const winrateSolo = Math.round((league[0].wins / (league[0].wins + league[0].losses)) * 100);
+                    const winrateSolo = Math.round((leagueSolo.wins / (leagueSolo.wins + leagueSolo.losses)) * 100);
                     gameMessage += ` winrate : ${winrateSolo} % \n`;
                     const leagueFlex = league.find(league => league.queueType === 'RANKED_FLEX_SR');
                     gameMessage += ` Flexqueue : ${leagueFlex.tier} ${leagueFlex.rank} ${leagueFlex.leaguePoints} points`;
@@ -60,7 +59,7 @@ module.exports = {
                   if (league.length !== 1 && league[0].summonerName === participant.summonerName) {
                     const leagueSolo = league.find(league => league.queueType === 'RANKED_SOLO_5x5');
                     gameMessage += ` Soloqueue : ${leagueSolo.tier} ${leagueSolo.rank} ${leagueSolo.leaguePoints} points`;
-                    const winrateSolo = Math.round((league[0].wins / (league[0].wins + league[0].losses)) * 100);
+                    const winrateSolo = Math.round((leagueSolo.wins / (leagueSolo.wins + leagueSolo.losses)) * 100);
                     gameMessage += ` winrate : ${winrateSolo} % \n`;
                     const leagueFlex = league.find(league => league.queueType === 'RANKED_FLEX_SR');
                     gameMessage += ` Flexqueue : ${leagueFlex.tier} ${leagueFlex.rank} ${leagueFlex.leaguePoints} points`;

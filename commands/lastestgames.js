@@ -1,6 +1,5 @@
 const { SlashCommandBuilder, AttachmentBuilder } = require('discord.js');
 const apiServiceLOL = require('../services/ApiServiceLOL');
-const championService = require('../services/ChampionData');
 const fs = require('fs');
 
 module.exports = {
@@ -16,16 +15,16 @@ module.exports = {
     let message = '';
     const summonerName = interaction.options.getString('nomdujoueur');
     const summoner = await apiServiceLOL.getSummonerByName(summonerName);
-    const summonerInfo = await summoner.json();
-    if (typeof(summonerInfo.status) !== 'undefined') {
+    const summonerInfo = await summoner.body.json();
+    if (typeof(summonerInfo.status) === 'undefined') {
       const summonerPuuid = await summonerInfo.puuid;
       const matches = await apiServiceLOL.get10LastestGameOfSummoner(summonerPuuid);
-      const matchesInfo = await matches.json();
+      const matchesInfo = await matches.body.json();
       const matchesList10 = await Promise.all(matchesInfo.map(matchId => apiServiceLOL.getMatchByMatchId(matchId)));
-      const matchesList10Json = await Promise.all(matchesList10.map(matchInfo => matchInfo.json()));
+      const matchesList10Json = await Promise.all(matchesList10.map(matchInfo => matchInfo.body.json()));
       const matchesList10JsonInfo = await Promise.all(matchesList10Json.map(matchInfo => matchInfo.info));
-      const championData = await championService.getChampionData();
-      const championDataJson = await championData.json();
+      const championData = await apiServiceLOL.getChampionData();
+      const championDataJson = await championData.body.json();
       const championList = championDataJson.data;
       matchesList10JsonInfo.forEach(match => {
         const gameDuration = match.gameDuration;
